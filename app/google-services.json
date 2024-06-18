@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "935886652979",
+    "project_id": "evaluaciontemas-1f123",
+    "storage_bucket": "evaluaciontemas-1f123.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935886652979:android:e4ca2cfeecbfa3c72e4546",
+        "android_client_info": {
+          "package_name": "com.example.evaluaciontemas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935886652979-sac7dbn36i0bmscihg146rbft1m592t7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkZZK1kQIi8hULW1dfHA5Ll30eYHXq0VI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935886652979-sac7dbn36i0bmscihg146rbft1m592t7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="strDocsExtran">
+        <item>Visa de residente temporal por solvencia económica</item>
+        <item>Visa de residente temporal por oferta de empleo</item>
+        <item>Documento de empleador de extranjero</item>
+        <item>Carta de contratación laboral</item>
+        <item>Permiso migratorio</item>
+    </string-array>
+</resources>

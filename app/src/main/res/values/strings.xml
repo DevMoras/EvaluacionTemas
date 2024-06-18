@@ -1,0 +1,117 @@
+<resources>
+    <string name="app_name">Solicitudes de empleo</string>
+
+    <string name="viewSolicitudEmpleo">SOLICITUD DE EMPLEO</string>
+    <string name="viewConfidencial">Toda información aquí proporcionada será tratada confidencialmente.</string>
+    <string name="viewPuesto">Puesto que solicita</string>
+    <string name="campoVacio">X X X X</string>
+    <string name="viewFechaT">Fecha:</string>
+    <string name="viewSueldoD">Sueldo Mensual Deseado</string>
+    <string name="viewSueldoA">Sueldo Mensual Aprobado</string>
+    <string name="viewFechaC">Fecha de Contratación</string>
+
+    <string name="viewDatosPersonles">DATOS PERSONALES</string>
+    <string name="txtApellidoP">Apellido Paterno</string>
+    <string name="txtApellidoM">Apellido Materno</string>
+    <string name="txtNombre">Nombre (s)</string>
+    <string name="txtEdad">Edad (Años)</string>
+    <string name="txtDomicilio">Domicilio (Colonia, C.P.)</string>
+    <string name="txtTelefono">Telefono</string>
+    <string name="txtLugarNac">Lugar de Nacimiento (Ciudad, Estado)</string>
+    <string name="txtFechaNac">Fecha de Nacimiento</string>
+    <string name="txtNacionalidad">Nacionalidad</string>
+    <string name="rbMexicana">Mexicana</string>
+    <string name="rbExtranjera">Extranjera</string>
+    <string name="txtEstatura">Estatura (Centimetros)</string>
+    <string name="txtPeso">Peso (Kg)</string>
+    <string name="viewSexo">Sexo</string>
+    <string name="rbMasculino">Masculino</string>
+    <string name="rbFemenino">Femenino</string>
+    <string name="viewEstadoC">Estado Civil</string>
+    <string name="rbSoltero">Soltero</string>
+    <string name="rbCasado">Casado</string>
+    <string name="rbOtro">Otro</string>
+    <string name="viewViveCon">Vive con</string>
+    <string name="rbPadres">Padres</string>
+    <string name="rbFamilia">Familia</string>
+    <string name="rbParientes">Parientes</string>
+    <string name="rbSolo">Solo</string>
+    <string name="viewDependientes">Personas que dependen de usted</string>
+    <string name="cbHijos">Hijos</string>
+    <string name="cbConyuge">Cónyuge</string>
+    <string name="cbPadres2">Padres</string>
+    <string name="cbOtros">Otros</string>
+
+    <string name="viewDocumentacion">DOCUMENTACIÓN</string>
+    <string name="txtCurp">Cable Única de Registro de Población</string>
+    <string name="txtAfore">AFORE</string>
+    <string name="txtRegFedContribuyentes">Reg. Fed. de Contribuyentes</string>
+    <string name="txtNumSeguridadSocial">Número de Seguridad Social</string>
+    <string name="txtCartillaServicioMilitar">Cartilla de Servicio Militar No.</string>
+    <string name="viewPasaporte">¿Tiene pasaporte?</string>
+    <string name="txtPasaporte">Pasaporte No.</string>
+    <string name="viewLicenciaManejo">¿Tiene licencia de manejo?</string>
+    <string name="rbNo">No</string>
+    <string name="rbSi">Si</string>
+    <string name="txtClaveLicencia">Clave de licencia</string>
+    <string name="txtNumLicencia">Número de licencia</string>
+    <string name="viewDocsExtran">Siendo extranjero, ¿Qué documentos le permiten trabajar en el país?</string>
+
+    <string name="viewSaludHabitos">ESTADO DE SALUD Y HABITOS PERSONALES</string>
+    <string name="viewSalud">¿Cómo considera su estado de salud actual?</string>
+    <string name="rbBueno">Bueno</string>
+    <string name="rbRegular">Regular</string>
+    <string name="rbMalo">Malo</string>
+    <string name="viewEnfermedad">¿Padece alguna enfermedad cónica?</string>
+    <string name="txtExpliqueEnfermedad">Explique su enfermedad</string>
+    <string name="viewDeporte">¿Práctica algún deporte?</string>
+    <string name="txtDeporte">¿Qué deporte práctica?</string>
+    <string name="viewClub">¿Pertenece a algún Club Social o Deportivo?</string>
+    <string name="txtPasatiempo">¿Cuál es su pasatiempo favorito?</string>
+    <string name="txtMeta">¿Cuál es su meta en la vida?</string>
+
+    <string name="viewDatosFamiliares">DATOS FAMILIARES</string>
+    <string name="viewPadre">PADRE</string>
+    <string name="txtNombreF">Nombre completo</string>
+    <string name="viewViveF">¿Vive?</string>
+    <string name="txtDomicilioF">Domicilio</string>
+    <string name="txtOcupacionF">Ocupación</string>
+    <string name="viewMadre">MADRE</string>
+    <string name="viewEsposa">¿TIENE ESPOSA (O)?</string>
+    <string name="viewHijos">¿TIENE HIJOS?</string>
+    <string name="txtHijos">Nombre y edades de los hijos</string>
+
+    <string name="viewEscolaridad">ESCOLARIDAD</string>
+    <string name="viewEstudios">Selecciones sus niveles educativos</string>
+    <string name="viewPrimaria">PRIMARIA</string>
+    <string name="txtNombreE">Nombre de la escuela</string>
+    <string name="txtDireccionE">Dirección</string>
+    <string name="txtDe">De (año inicio)</string>
+    <string name="txtA">A (año final)</string>
+    <string name="txtAnios">Años (cantidad de años que cursó)</string>
+    <string name="viewTitulo">¿Recibió el titulo?</string>
+    <string name="viewSecundaria">SECUNDARIA O PREVOCACIONAL</string>
+    <string name="viewPreparatoria">PREPARATORIA O VOCACIONAL</string>
+    <string name="viewProfesional">PROFESIONAL</string>
+    <string name="viewComercial">COMERCIAL U OTRAS</string>
+    <string name="viewEstudiosActuales">ESTUDIOS ACTUALES</string>
+    <string name="viewHorario">Horario</string>
+    <string name="txtDeH">De (hora entrada)</string>
+    <string name="txtAH">A (hora salida)</string>
+    <string name="viewNotaHorario">Nota: Ingrese las horas en el formato de hh:mm y de 24h. Ejemplo: 20:07</string>
+    <string name="txtCurso">Nombre del curso o carrera</string>
+    <string name="viewGrado">Grado:</string>
+    <string name="cbPrimaria">Primaria</string>
+    <string name="cbSecundaria">Secundaria/Prevocacional</string>
+    <string name="cbPrepa">Preparatora/Vocacional</string>
+    <string name="cbProfesional">Profesional</string>
+    <string name="cbComercial">Comercial/Otras</string>
+    <string name="cbEstudioAct">Estudio actualmente</string>
+
+    <string name="btnGuardar">Guardar</string>
+
+    <string name="menuAgregar">Agregar</string>
+    <string name="menuGuardar">Guardar</string>
+    <string name="menuEliminar">Eliminar</string>
+    <string name="xxxxx">X X X X X</string>
+</resources>
